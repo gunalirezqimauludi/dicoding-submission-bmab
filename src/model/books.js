@@ -1,5 +1,3 @@
-const books = []
-
 /* @Field {
     "id": string,
     "name": string,
@@ -14,5 +12,7 @@ const books = []
     "insertedAt": string,
     "updatedAt": string,
 } */
+
+const books = []
 
 export default books
